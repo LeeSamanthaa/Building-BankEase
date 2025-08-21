@@ -163,13 +163,13 @@ streamlit run app.py
 ## Information regarding other directories
 
 1. **team_AI** 
-   - Contains work done by collaborators wrt to insights, recommendations and fraud models.
+   - Contains work done by collaborators wrt to insights, recommendations, and fraud models.
     A subset of this work has already been incorporated into bankease_agentic_app directory. Not used for running the Bankease agentic app.
     
 ---
 
 ## Acknowledgements
 
-- **Golden Dataset** – Created by Sanjiv Shrestha, Madoka Fujii, Samantha Lee, Anika Rana, Mazhar  
+- **Golden Dataset** – Created by Samantha Lee, Madoka Fujii, Sanjiv Shrestha
 - **FAQ and Bank Policies** – Sunil Thapa  
 - **Documentation Files** – Authored by contributors (names mentioned inside each document in `docs/`)
