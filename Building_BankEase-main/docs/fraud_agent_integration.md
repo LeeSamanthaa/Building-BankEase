@@ -1,6 +1,6 @@
 # Documentation: Fraud Engine Integration
 ## Author
-**Luis Mancio**
+**Samantha Lee & Luis Mancio**
 
 ## Purpose
 
