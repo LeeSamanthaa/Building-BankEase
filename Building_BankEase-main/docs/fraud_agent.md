@@ -157,4 +157,4 @@ These artifacts contain all components needed to make real-time fraud prediction
 * **Output:** Prints transaction details, fraud probability, and chatbot response.
 
 ### Credits
-This fraud agent was developed by Samantha Lee, with integration and documentation support from Luis Mancio and Priyanjali Patel with additional contributions from Ayodele Mudavanhu, Sanjiv Shrestha, Jayash, Amit Sarkar, Ramy Othman and Olajumoke Ojikutu.
+This fraud agent & Model Training was developed by Samantha Lee, with integration and documentation support from Luis Mancio and Priyanjali Patel
