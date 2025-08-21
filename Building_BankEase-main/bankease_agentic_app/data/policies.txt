@@ -1,0 +1,149 @@
+1. What is GDPR?
+GDPR is a European Union regulation that protects the personal data of individuals and gives them greater control over how their data is collected, used, and shared.
+
+2. Who must comply with GDPR?
+Any organization that collects or processes personal data of EU residents must comply with GDPR, regardless of where the organization is based.
+
+3. What is personal data under GDPR?
+Personal data is any information that can identify a person, such as name, email, IP address, account number, or phone number.
+
+4. What is PSD2?
+PSD2 is a European regulation that requires banks to provide secure APIs for third-party providers to access account data with customer consent.
+
+5. Can I access the data my bank holds about me?
+Yes, under GDPR you have the right to access your personal data held by the bank.
+
+6. How do I request access to my personal data?
+You can request data access through the BankEase app's privacy section or by contacting customer support.
+
+7. What is the right to be forgotten?
+It is your right to have your personal data erased from a company’s systems when it’s no longer necessary or if you withdraw consent.
+
+8. Can I transfer my banking data to another provider?
+Yes, under GDPR you have the right to data portability, which allows you to move your data to another provider in a readable format.
+
+9. What happens if I withdraw consent for data sharing?
+Your data will no longer be shared with third parties unless required by law, and access will be revoked immediately.
+
+10. How does BankEase ensure compliance with privacy laws?
+BankEase implements encryption, access controls, consent tracking, and regular audits to comply with GDPR, PSD2, and regional laws.
+
+11. How will I know if there’s a data breach?
+You’ll receive a real-time alert via app notification and email within 72 hours if your data is affected.
+
+12. Can I control what notifications I receive?
+Yes, you can customize your notification preferences in the app settings.
+
+13. What is a consent alert?
+It’s a notification that a third-party provider has requested access to your banking data, requiring your approval.
+
+14. How does BankEase detect fraud?
+BankEase uses AI to monitor behavior, location, and transaction patterns for real-time fraud detection.
+
+15. What happens when suspicious activity is detected?
+You will receive an alert, and the transaction may be blocked until your identity is verified.
+
+16. How often does BankEase audit its systems?
+BankEase conducts internal audits every six months and external audits annually.
+
+17. What should I do if I suspect fraud?
+Report it immediately through the app or contact the security team at security@bankease.ai.
+
+18. What is a privacy policy update alert?
+It’s a notification informing you that the privacy policy has changed, along with a summary of what’s new.
+
+19. Will I be asked before my data is shared?
+Yes, data is only shared with your explicit consent or if required by law.
+
+20. What is the right to object?
+You have the right to object to how your data is being used, particularly for direct marketing.
+
+21. What is anonymized data?
+Anonymized data has had personal identifiers removed so individuals cannot be identified.
+
+22. Does BankEase store biometric data?
+Only with user consent and for specific features like facial recognition login or voice verification.
+
+23. How does BankEase handle children’s data?
+We do not knowingly collect or store data of individuals under the age of 16 without parental consent.
+
+24. How can I update my consent preferences?
+You can update them at any time in the app under “Privacy & Data Sharing.”
+
+25. What is two-factor authentication (2FA)?
+2FA is an extra layer of security requiring you to verify your identity using a second method, such as a code sent to your phone.
+
+26. What does a login alert mean?
+It notifies you when your account is accessed from a new device or location.
+
+27. What is a suspicious transaction alert?
+It alerts you to transactions that appear unusual based on your behavior or location.
+
+28. Can I opt out of marketing messages?
+Yes, you can opt out through your account settings or by clicking “unsubscribe” in marketing emails.
+
+29. What if I accidentally authorized a third-party app?
+You can revoke access immediately through the app dashboard.
+
+30. What is encryption and why is it used?
+Encryption scrambles your data so it can only be read with the correct key, protecting it from unauthorized access.
+
+31. Are my communications with BankEase secure?
+Yes, all communication is encrypted using HTTPS and secure messaging protocols.
+
+32. What if I receive a phishing email?
+Do not click any links. Report it immediately through the app or to phishing@bankease.ai.
+
+33. Can I download a copy of my personal data?
+Yes, you can request a downloadable copy from the privacy section of the app.
+
+34. How long does BankEase retain my data?
+Data is retained only as long as necessary for regulatory or business purposes and is deleted upon request if no longer needed.
+
+35. How does BankEase handle financial data under PSD2?
+Data is shared only with authorized third parties using secure, consent-based APIs.
+
+36. What is an API in Open Banking?
+An API is a secure interface that allows third-party apps to access banking data with your consent.
+
+37. Will I be notified before any third-party access?
+Yes, you will receive a consent request with details of the data being accessed.
+
+38. What is behavioral anomaly detection?
+It’s a system that tracks patterns in your transactions and alerts you to anything unusual or risky.
+
+39. Can I disable alerts completely?
+Some security alerts are mandatory, but you can manage most alerts in your preferences.
+
+40. How do I know if my data is being used properly?
+You can view a history of all data access and sharing in the “Privacy Log” section of the app.
+
+41. What is a device authorization alert?
+It’s a notification that a new device is being used to access your account, requiring verification.
+
+42. What if I don’t respond to a security alert?
+If unverified, BankEase may temporarily suspend the transaction or account to protect you.
+
+43. Can I schedule a report of my data usage?
+Yes, you can generate and schedule regular reports from your app dashboard.
+
+44. What is an audit trail?
+An audit trail is a record of all interactions, access, and changes made to your personal data.
+
+45. What if I disagree with a transaction classification?
+You can report errors and request reclassification through the virtual assistant.
+
+46. How do I remove my data permanently?
+Submit a deletion request in the app; your data will be erased unless it’s needed for legal reasons.
+
+47. Can I speak to a human about my privacy rights?
+Yes, you can escalate any concern to our Privacy Officer directly through the app or by email.
+
+48. What happens to my data if I close my account?
+Your data will be securely deleted or anonymized unless retention is required by law.
+
+49. How are high-risk transfers protected?
+They require multi-step authentication and manual confirmation before processing.
+
+50. Does BankEase track my location?
+Only if you allow location access for fraud detection or branch locator features. You can disable it at any time.

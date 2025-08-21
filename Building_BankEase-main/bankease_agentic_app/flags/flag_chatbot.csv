@@ -1,0 +1,58 @@
+User,User Question,Assistant Response,Timestamp,Manager Flag,Manager Decision,Manager Comments
+U001,what is my user id?,"Your User ID is U001, and your Account ID is ACC10000.",8/5/2025 21:16,True,Correct,
+U001,tell me about invesment products of bankease,"I'm sorry, but I can't answer the given question.",2025-08-05 21:21:10,True,Correct,
+U001,who is the ceo of apple,This virtual assistant is designed to help with your personal banking transactions and to provide information on bank policies and services. Please ensure your query relates to these areas.,2025-08-05 21:21:21,True,Incorrect,Out of scope
+U001,how much did i spend in total in january. ,"You spent a total of $15,042.62 in January.",2025-08-11 16:37:57,True,Correct,
+U001,show my last 5 debit transactions. ,"Here are your last 5 debit transactions:
+
+| Transaction ID | Amount | Description | Date |
+| --- | --- | --- | --- |
+| 184 | 44.50 | NetConnect - Utilities | Feb 3, 2024 |
+| 183 | 72.95 | NetConnect - Utilities | Feb 3, 2024 |
+| 182 | 775.00 | NetConnect - Utilities | Feb 3, 2024 |
+| 181 | 25.00 | NetConnect - Utilities | Feb 3, 2024 |
+| 180 | 100.00 | NetConnect - Utilities | Feb 3, 2024 |",2025-08-11 19:57:15,True,Correct,
+U001,show my recent 5 debit transaactions,"Here are your last 5 debit transactions:
+
+| Transaction ID | Date | Amount | Payee | Category | Description |
+| --- | --- | --- | --- | --- | --- |
+| 184 | 2024-02-03 | 44.50 | NetConnect | Utilities | Physical store |
+| 183 | 2024-02-03 | 72.95 | NetConnect | Utilities | Physical store |
+| 182 | 2024-02-03 | 775.00 | NetConnect | Utilities | Physical store |
+| 181 | 2024-02-03 | 25.00 | NetConnect | Utilities | Physical store |
+| 180 | 2024-02-03 | 100.00 | NetConnect | Utilities | Physical store |",2025-08-12 05:05:28,True,Correct,
+U003,show my most recent 5 debit transactions,"Here are your last 5 debit transactions:
+
+| Transaction ID | Amount | Payee | Category | Date |
+| --- | --- | --- | --- | --- |
+| 561 | 59.00 | ElectroWorld | Electronics | 2024-02-10 |
+| 562 | 60.00 | ElectroWorld | Electronics | 2024-02-10 |
+| 563 | 117.00 | ElectroWorld | Electronics | 2024-02-10 |
+| 564 | 50.00 | ElectroWorld | Electronics | 2024-02-10 |
+| 565 | 77.00 | ElectroWorld | Electronics | 2024-02-10 |
+
+Let me know if you need any further assistance!",2025-08-12 05:15:58,True,Correct,
+U001,how much did i spend in january? ,"Your total spending in January was $15,042.62.",2025-08-12 06:10:54,False,nan,
+U002,show my last 5 debit transactions. ,"Here are your last 5 debit transactions:
+
+| Transaction ID | Date | Description | Category | Amount |
+| --- | --- | --- | --- | --- |
+| 414 | 2024-02-07 | FunWorld | Entertainment | 25.26 |
+| 413 | 2024-02-07 | FunWorld | Entertainment | 40.00 |
+| 412 | 2024-02-07 | FunWorld | Entertainment | 117.00 |
+| 411 | 2024-02-07 | FunWorld | Entertainment | 83.74 |
+| 410 | 2024-02-07 | FunWorld | Entertainment | 83.74 |
+
+Let me know if you have any further questions!",2025-08-13 20:48:11,True,Correct,
+U002,show my last 5 debit transactions. ,"Here are your last 5 debit transactions:
+
+| Transaction ID | Date | Description | Amount |
+| --- | --- | --- | --- |
+| 414 | 2024-02-07 | FunWorld (Entertainment) | $25.26 |
+| 413 | 2024-02-07 | FunWorld (Entertainment) | $40.00 |
+| 412 | 2024-02-07 | FunWorld (Entertainment) | $117.00 |
+| 411 | 2024-02-07 | FunWorld (Entertainment) | $83.74 |
+| 410 | 2024-02-07 | FunWorld (Entertainment) | $83.74 |
+
+Let me know if you need any further assistance!",2025-08-14 12:16:38,False,,
+U002,how much did i spend in february? ,"You spent a total of $14,742.45 in February.",2025-08-14 12:25:04,False,,

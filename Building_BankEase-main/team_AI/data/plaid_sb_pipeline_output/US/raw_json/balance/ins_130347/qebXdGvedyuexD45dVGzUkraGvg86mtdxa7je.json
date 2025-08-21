@@ -1,0 +1,221 @@
+{
+    "accounts": [
+        {
+            "account_id": "vLM5jwvLjnimPoXMj9qZILp7e4WdGxuqVXMdb",
+            "balances": {
+                "available": 100,
+                "current": 110,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "holder_category": "personal",
+            "mask": "0000",
+            "name": "Plaid Checking",
+            "official_name": "Plaid Gold Standard 0% Interest Checking",
+            "subtype": "checking",
+            "type": "depository"
+        },
+        {
+            "account_id": "RPQVNaqPNDCBAm6jJxDEtrBRgk7bpNCa5GgEk",
+            "balances": {
+                "available": 200,
+                "current": 210,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "holder_category": "personal",
+            "mask": "1111",
+            "name": "Plaid Saving",
+            "official_name": "Plaid Silver Standard 0.1% Interest Saving",
+            "subtype": "savings",
+            "type": "depository"
+        },
+        {
+            "account_id": "6PemZ3pPZECeQwPE5x4vU4NgZzekLWc8nxB5D",
+            "balances": {
+                "available": null,
+                "current": 1000,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "mask": "2222",
+            "name": "Plaid CD",
+            "official_name": "Plaid Bronze Standard 0.2% Interest CD",
+            "subtype": "cd",
+            "type": "depository"
+        },
+        {
+            "account_id": "XMg1ZexMZWsjM6dDBrwqUoaZpAwLe8Fb8xmaA",
+            "balances": {
+                "available": null,
+                "current": 410,
+                "iso_currency_code": "USD",
+                "limit": 2000,
+                "unofficial_currency_code": null
+            },
+            "mask": "3333",
+            "name": "Plaid Credit Card",
+            "official_name": "Plaid Diamond 12.5% APR Interest Credit Card",
+            "subtype": "credit card",
+            "type": "credit"
+        },
+        {
+            "account_id": "DW1RmLJWmDUDKpxzNj1RT7rGK1lXbgU3GX5M5",
+            "balances": {
+                "available": 43200,
+                "current": 43200,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "mask": "4444",
+            "name": "Plaid Money Market",
+            "official_name": "Plaid Platinum Standard 1.85% Interest Money Market",
+            "subtype": "money market",
+            "type": "depository"
+        },
+        {
+            "account_id": "VQa1ejBQeDULD4jVXbB9Iarl7zMWEQi9NnBrJ",
+            "balances": {
+                "available": null,
+                "current": 320.76,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "mask": "5555",
+            "name": "Plaid IRA",
+            "official_name": null,
+            "subtype": "ira",
+            "type": "investment"
+        },
+        {
+            "account_id": "wpbA7Gvp7mCp5dgJ7Kz4tNVgXynv94CPKlb87",
+            "balances": {
+                "available": null,
+                "current": 23631.9805,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "mask": "6666",
+            "name": "Plaid 401k",
+            "official_name": null,
+            "subtype": "401k",
+            "type": "investment"
+        },
+        {
+            "account_id": "5N4xQBkNQmtwP6lDL3yKIw8GxWBbMoi5jp1mo",
+            "balances": {
+                "available": null,
+                "current": 65262,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "holder_category": "personal",
+            "mask": "7777",
+            "name": "Plaid Student Loan",
+            "official_name": null,
+            "subtype": "student",
+            "type": "loan"
+        },
+        {
+            "account_id": "Jz4arqJzrDfd9jxKZzwQiyGpxq3k6DhBw5DPA",
+            "balances": {
+                "available": null,
+                "current": 56302.06,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "mask": "8888",
+            "name": "Plaid Mortgage",
+            "official_name": null,
+            "subtype": "mortgage",
+            "type": "loan"
+        },
+        {
+            "account_id": "kaxbK6vaKWF9qDAPK847HZPExL471euLA8lvj",
+            "balances": {
+                "available": 6009,
+                "current": 6009,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "mask": "9001",
+            "name": "Plaid HSA",
+            "official_name": "Plaid Cares Health Savings Account",
+            "subtype": "hsa",
+            "type": "depository"
+        },
+        {
+            "account_id": "l49WrG64rnc4KwmavenNhoRMpz1BDvFp6rVxw",
+            "balances": {
+                "available": 12060,
+                "current": 12060,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "mask": "9002",
+            "name": "Plaid Cash Management",
+            "official_name": "Plaid Growth Cash Management",
+            "subtype": "cash management",
+            "type": "depository"
+        },
+        {
+            "account_id": "qebXdGvedyuexD45dVGzUkr6yvBjGmIgBVz3W",
+            "balances": {
+                "available": 4980,
+                "current": 5020,
+                "iso_currency_code": "USD",
+                "limit": 10000,
+                "unofficial_currency_code": null
+            },
+            "holder_category": "business",
+            "mask": "9999",
+            "name": "Plaid Business Credit Card",
+            "official_name": "Plaid Platinum Small Business Credit Card",
+            "subtype": "credit card",
+            "type": "credit"
+        }
+    ],
+    "item": {
+        "auth_method": "INSTANT_AUTH",
+        "available_products": [
+            "assets",
+            "balance",
+            "identity_match",
+            "income_verification",
+            "recurring_transactions",
+            "signal"
+        ],
+        "billed_products": [
+            "auth",
+            "identity",
+            "investments",
+            "liabilities",
+            "transactions"
+        ],
+        "consent_expiration_time": null,
+        "error": null,
+        "institution_id": "ins_130347",
+        "institution_name": "Chiphone Credit Union",
+        "item_id": "qebXdGvedyuexD45dVGzUkraGvg86mtdxa7je",
+        "products": [
+            "auth",
+            "identity",
+            "investments",
+            "liabilities",
+            "transactions"
+        ],
+        "update_type": "background",
+        "webhook": ""
+    },
+    "request_id": "Wg3ATZjxNCLU1Aa"
+}

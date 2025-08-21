@@ -1,0 +1,4 @@
+institution_id,name,products
+ins_118509,AIB (NI) (UK) - Personal,"['assets', 'auth', 'balance', 'income_verification', 'pay_by_bank', 'payment_initiation', 'processor_payments', 'recurring_transactions', 'signal', 'standing_orders', 'transactions', 'transfer']"
+ins_118510,AIB (NI) (UK) - Business,"['assets', 'auth', 'balance', 'income_verification', 'pay_by_bank', 'payment_initiation', 'processor_payments', 'recurring_transactions', 'signal', 'standing_orders', 'transactions', 'transfer']"
+ins_117238,Allied Irish Bank (GB),"['assets', 'auth', 'balance', 'income_verification', 'pay_by_bank', 'payment_initiation', 'processor_payments', 'recurring_transactions', 'signal', 'standing_orders', 'transactions', 'transfer']"

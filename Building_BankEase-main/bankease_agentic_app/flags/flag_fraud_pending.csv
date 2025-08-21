@@ -1,0 +1,5 @@
+isFraud,ProductCD,guid,UserID,AccountID,TransactionType,TransactionAmt,TransactionDate,Merchant,Category,Channel,CustomerAge,CustomerOccupation,IncomeBracket,PreferredSpendingCategory,RiskProfile,CreditScore,LoanEligibilityScore,CustomerTenure,MostInterestedProduct,TransactionMonth,AvgMonthlySpend
+1,W,082176d7-1fc5-4684-a39f-71cc424fcb63,U001,ACC10000,Debit,2000,2/16/2024,Unknown,Unknown,Online,45,Software engineer,150K-200K,Electronics,Low,735,0.85,8,Investment Account,2024-02,114.5530588
+1,W,082176d7-1fc5-4684-a39f-71cc424fcb63,U001,ACC10000,Debit,250,2/16/2024,Unknown,Unknown,Online,45,Software engineer,150K-200K,Electronics,Low,735,0.85,8,Investment Account,2024-02,114.5530588
+1,W,1b563771-6d05-431d-a612-63cc94b6cae2,U002,ACC10001,Debit,3060.95,2/28/2024,Unknown,Unknown,Physical store,36,Data Scientist,100K-150K,Entertainment,Medium,660,0.74,25,Home Loan,2024-02,100.2686667
+0,W,1b563771-6d05-431d-a612-63cc94b6cae2,U002,ACC10001,Debit,306,2/28/2024,Unknown,Unknown,Physical store,36,Data Scientist,100K-150K,Entertainment,Medium,660,0.74,25,Home Loan,2024-02,100.2686667

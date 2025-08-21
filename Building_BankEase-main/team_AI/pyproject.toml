@@ -1,0 +1,23 @@
+[project]
+name = "team-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "colorama>=0.4.6",
+    "ipython>=9.3.0",
+    "pandas>=2.2.3",
+    "plaid-python>=34.0.0",
+    "python-dotenv>=1.1.0",
+    "pyyaml>=6.0.2",
+    "requests>=2.32.3",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
+    "jupyterlab>=4.4.3",
+    "notebook>=7.4.3",
+    "rich>=14.0.0",
+]

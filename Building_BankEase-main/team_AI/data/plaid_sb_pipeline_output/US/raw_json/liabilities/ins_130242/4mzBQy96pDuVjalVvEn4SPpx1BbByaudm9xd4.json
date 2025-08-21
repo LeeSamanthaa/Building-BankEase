@@ -1,0 +1,341 @@
+{
+    "accounts": [
+        {
+            "account_id": "MXzbedplR6UEnmRE85MqUW77LZlpKphL6nPVD",
+            "balances": {
+                "available": 100,
+                "current": 110,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "holder_category": "personal",
+            "mask": "0000",
+            "name": "Plaid Checking",
+            "official_name": "Plaid Gold Standard 0% Interest Checking",
+            "subtype": "checking",
+            "type": "depository"
+        },
+        {
+            "account_id": "18qKj7bJL5IGw9AGxqJpToNN87JWdWipjWel5",
+            "balances": {
+                "available": 200,
+                "current": 210,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "holder_category": "personal",
+            "mask": "1111",
+            "name": "Plaid Saving",
+            "official_name": "Plaid Silver Standard 0.1% Interest Saving",
+            "subtype": "savings",
+            "type": "depository"
+        },
+        {
+            "account_id": "LXrn7xLMQ6UJEeoJ75mlToLLXzQKyKikjDpGk",
+            "balances": {
+                "available": null,
+                "current": 1000,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "mask": "2222",
+            "name": "Plaid CD",
+            "official_name": "Plaid Bronze Standard 0.2% Interest CD",
+            "subtype": "cd",
+            "type": "depository"
+        },
+        {
+            "account_id": "p4yE8k1glZT7rja75zWqUw44jNMVEVFpoRV3J",
+            "balances": {
+                "available": null,
+                "current": 410,
+                "iso_currency_code": "USD",
+                "limit": 2000,
+                "unofficial_currency_code": null
+            },
+            "mask": "3333",
+            "name": "Plaid Credit Card",
+            "official_name": "Plaid Diamond 12.5% APR Interest Credit Card",
+            "subtype": "credit card",
+            "type": "credit"
+        },
+        {
+            "account_id": "oaG8gdMbWQSzKeWzNr6lIQllKne6k6uoqL78k",
+            "balances": {
+                "available": 43200,
+                "current": 43200,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "mask": "4444",
+            "name": "Plaid Money Market",
+            "official_name": "Plaid Platinum Standard 1.85% Interest Money Market",
+            "subtype": "money market",
+            "type": "depository"
+        },
+        {
+            "account_id": "gqGQel4pNdS3KZJ3oePvUX11wkxn4ncE83nqM",
+            "balances": {
+                "available": null,
+                "current": 320.76,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "mask": "5555",
+            "name": "Plaid IRA",
+            "official_name": null,
+            "subtype": "ira",
+            "type": "investment"
+        },
+        {
+            "account_id": "8XdaLyl6vAUpAqzpDd84coEEaDLnqniW3dLjz",
+            "balances": {
+                "available": null,
+                "current": 23631.9805,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "mask": "6666",
+            "name": "Plaid 401k",
+            "official_name": null,
+            "subtype": "401k",
+            "type": "investment"
+        },
+        {
+            "account_id": "EXpoxlj7nbUl89rl65myIzLLXdRWxWu4xDkJr",
+            "balances": {
+                "available": null,
+                "current": 65262,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "holder_category": "personal",
+            "mask": "7777",
+            "name": "Plaid Student Loan",
+            "official_name": null,
+            "subtype": "student",
+            "type": "loan"
+        },
+        {
+            "account_id": "Wn7lEqmJpVsgWNwgp5aRUqyyRa9GMGU6ZL1KB",
+            "balances": {
+                "available": null,
+                "current": 56302.06,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "mask": "8888",
+            "name": "Plaid Mortgage",
+            "official_name": null,
+            "subtype": "mortgage",
+            "type": "loan"
+        },
+        {
+            "account_id": "AXZMrya146UVe9jVBZ36SpLLMznWNWF9rGAEM",
+            "balances": {
+                "available": 6009,
+                "current": 6009,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "mask": "9001",
+            "name": "Plaid HSA",
+            "official_name": "Plaid Cares Health Savings Account",
+            "subtype": "hsa",
+            "type": "depository"
+        },
+        {
+            "account_id": "GXg8aKewRAUmEq3mA5PZUpQQ9jBA5AF6MEPyR",
+            "balances": {
+                "available": 12060,
+                "current": 12060,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "mask": "9002",
+            "name": "Plaid Cash Management",
+            "official_name": "Plaid Growth Cash Management",
+            "subtype": "cash management",
+            "type": "depository"
+        },
+        {
+            "account_id": "ndGgoxZ4beToqZwopKDgUnZZVNq6K6tAlxWwm",
+            "balances": {
+                "available": 4980,
+                "current": 5020,
+                "iso_currency_code": "USD",
+                "limit": 10000,
+                "unofficial_currency_code": null
+            },
+            "holder_category": "business",
+            "mask": "9999",
+            "name": "Plaid Business Credit Card",
+            "official_name": "Plaid Platinum Small Business Credit Card",
+            "subtype": "credit card",
+            "type": "credit"
+        }
+    ],
+    "item": {
+        "auth_method": "INSTANT_AUTH",
+        "available_products": [
+            "assets",
+            "balance",
+            "identity_match",
+            "income_verification",
+            "recurring_transactions",
+            "signal"
+        ],
+        "billed_products": [
+            "auth",
+            "identity",
+            "investments",
+            "liabilities",
+            "transactions"
+        ],
+        "consent_expiration_time": null,
+        "error": null,
+        "institution_id": "ins_130242",
+        "institution_name": "Ocala Community Credit Union",
+        "item_id": "4mzBQy96pDuVjalVvEn4SPpx1BbByaudm9xd4",
+        "products": [
+            "auth",
+            "identity",
+            "investments",
+            "liabilities",
+            "transactions"
+        ],
+        "update_type": "background",
+        "webhook": ""
+    },
+    "liabilities": {
+        "credit": [
+            {
+                "account_id": "p4yE8k1glZT7rja75zWqUw44jNMVEVFpoRV3J",
+                "aprs": [
+                    {
+                        "apr_percentage": 15.24,
+                        "apr_type": "balance_transfer_apr",
+                        "balance_subject_to_apr": 1562.32,
+                        "interest_charge_amount": 130.22
+                    },
+                    {
+                        "apr_percentage": 27.95,
+                        "apr_type": "cash_apr",
+                        "balance_subject_to_apr": 56.22,
+                        "interest_charge_amount": 14.81
+                    },
+                    {
+                        "apr_percentage": 12.5,
+                        "apr_type": "purchase_apr",
+                        "balance_subject_to_apr": 157.01,
+                        "interest_charge_amount": 25.66
+                    },
+                    {
+                        "apr_percentage": 0,
+                        "apr_type": "special",
+                        "balance_subject_to_apr": 1000,
+                        "interest_charge_amount": 0
+                    }
+                ],
+                "is_overdue": false,
+                "last_payment_amount": 168.25,
+                "last_payment_date": "2019-05-22",
+                "last_statement_balance": 1708.77,
+                "last_statement_issue_date": "2019-05-28",
+                "minimum_payment_amount": 20,
+                "next_payment_due_date": "2020-05-28"
+            }
+        ],
+        "mortgage": [
+            {
+                "account_id": "Wn7lEqmJpVsgWNwgp5aRUqyyRa9GMGU6ZL1KB",
+                "account_number": null,
+                "current_late_fee": 25,
+                "escrow_balance": 1200,
+                "has_pmi": true,
+                "has_prepayment_penalty": true,
+                "interest_rate": {
+                    "percentage": 3.99,
+                    "type": "fixed"
+                },
+                "last_payment_amount": 3141.54,
+                "last_payment_date": "2019-08-01",
+                "loan_term": "30 year",
+                "loan_type_description": "conventional",
+                "maturity_date": "2045-07-31",
+                "next_monthly_payment": 3141.54,
+                "next_payment_due_date": "2019-11-15",
+                "origination_date": "2015-08-01",
+                "origination_principal_amount": 425000,
+                "past_due_amount": 2304,
+                "property_address": {
+                    "city": "Malakoff",
+                    "country": "US",
+                    "postal_code": "14236",
+                    "region": "NY",
+                    "street": "2992 Cameron Road"
+                },
+                "ytd_interest_paid": 12300.4,
+                "ytd_principal_paid": 12340.5
+            }
+        ],
+        "student": [
+            {
+                "account_id": "EXpoxlj7nbUl89rl65myIzLLXdRWxWu4xDkJr",
+                "account_number": null,
+                "disbursement_dates": [
+                    "2002-08-28"
+                ],
+                "expected_payoff_date": "2032-07-28",
+                "guarantor": "DEPT OF ED",
+                "interest_rate_percentage": 5.25,
+                "is_overdue": false,
+                "last_payment_amount": 138.05,
+                "last_payment_date": "2019-04-22",
+                "last_statement_balance": 138.05,
+                "last_statement_issue_date": "2019-04-28",
+                "loan_name": "Consolidation",
+                "loan_status": {
+                    "end_date": "2032-07-28",
+                    "type": "repayment"
+                },
+                "minimum_payment_amount": 25,
+                "next_payment_due_date": "2019-05-28",
+                "origination_date": "2002-08-28",
+                "origination_principal_amount": 25000,
+                "outstanding_interest_amount": 6227.36,
+                "payment_reference_number": null,
+                "pslf_status": {
+                    "estimated_eligibility_date": "2021-01-01",
+                    "payments_made": 78,
+                    "payments_remaining": 42
+                },
+                "repayment_plan": {
+                    "description": "Standard Repayment",
+                    "type": "standard"
+                },
+                "sequence_number": "1",
+                "servicer_address": {
+                    "city": "San Matias",
+                    "country": "US",
+                    "postal_code": "99415",
+                    "region": "CA",
+                    "street": "123 Relaxation Road"
+                },
+                "ytd_interest_paid": 280.55,
+                "ytd_principal_paid": 271.65
+            }
+        ]
+    },
+    "request_id": "nFu2LbkLO0N0YGn"
+}

@@ -1,0 +1,126 @@
+{
+    "accounts": [
+        {
+            "account_id": "ZZW8ZxDv6kCKw6a1EAblHd949MLoEXurmKmn8",
+            "balances": {
+                "available": 100.0,
+                "current": 110.0,
+                "limit": null,
+                "iso_currency_code": "GBP",
+                "unofficial_currency_code": null
+            },
+            "mask": "0000",
+            "name": "Plaid Current Account",
+            "official_name": "Plaid Standard Current Account",
+            "type": "depository",
+            "subtype": "checking",
+            "holder_category": "personal"
+        },
+        {
+            "account_id": "MzDjz1Gp6nu5nQ46kNLVHy4P43xk5DFepMpb9",
+            "balances": {
+                "available": 200.0,
+                "current": 210.0,
+                "limit": null,
+                "iso_currency_code": "GBP",
+                "unofficial_currency_code": null
+            },
+            "mask": "1111",
+            "name": "Plaid Saving",
+            "official_name": "Plaid Standard Interest Saving",
+            "type": "depository",
+            "subtype": "savings",
+            "holder_category": "personal"
+        },
+        {
+            "account_id": "pynPyJp1Z6UzrXMeb3xohyqPqGZA39FEj1j9E",
+            "balances": {
+                "available": 1100.0,
+                "current": 1205.0,
+                "limit": null,
+                "iso_currency_code": "GBP",
+                "unofficial_currency_code": null
+            },
+            "mask": "2222",
+            "name": "Plaid Business Current Account",
+            "official_name": "Plaid Business Current Account",
+            "type": "depository",
+            "subtype": "checking",
+            "holder_category": "business"
+        },
+        {
+            "account_id": "1qE4qe3b5AfqwEMdlXD5hA6b64jMP1CZXJXbp",
+            "balances": {
+                "available": null,
+                "current": 410.0,
+                "limit": 2000.0,
+                "iso_currency_code": "GBP",
+                "unofficial_currency_code": null
+            },
+            "mask": "3333",
+            "name": "Plaid Credit Card",
+            "official_name": "Plaid Diamond Credit Card",
+            "type": "credit",
+            "subtype": "credit card"
+        },
+        {
+            "account_id": "LrD4rRyL6Ai5EzNDZM1xHaewe784m9ClKrKge",
+            "balances": {
+                "available": null,
+                "current": 56302.06,
+                "limit": null,
+                "iso_currency_code": "GBP",
+                "unofficial_currency_code": null
+            },
+            "mask": "8888",
+            "name": "Plaid Mortgage",
+            "official_name": null,
+            "type": "loan",
+            "subtype": "mortgage"
+        },
+        {
+            "account_id": "oGnJGRNMQ6FrKgPoLB3phjPRP3do7Jfk5l54K",
+            "balances": {
+                "available": 4980.0,
+                "current": 5020.0,
+                "limit": 10000.0,
+                "iso_currency_code": "GBP",
+                "unofficial_currency_code": null
+            },
+            "mask": "9999",
+            "name": "Plaid Business Credit Card",
+            "official_name": "Plaid Platinum Small Business Credit Card",
+            "type": "credit",
+            "subtype": "credit card",
+            "holder_category": "business"
+        }
+    ],
+    "item": {
+        "item_id": "PxDQxyX86LC5vWdJeMg6HvXpWJmggPc77Djp8",
+        "webhook": "https://www.generic-webhook-receiver.com/webhook",
+        "error": null,
+        "available_products": [
+            "assets",
+            "balance",
+            "income_verification",
+            "payment_initiation",
+            "recurring_transactions",
+            "signal",
+            "transfer"
+        ],
+        "billed_products": [
+            "auth",
+            "transactions"
+        ],
+        "consent_expiration_time": "2025-07-15T19:46:20+00:00",
+        "update_type": "background",
+        "auth_method": "INSTANT_AUTH",
+        "institution_id": "ins_118510",
+        "institution_name": "AIB (NI) (UK) - Business",
+        "products": [
+            "auth",
+            "transactions"
+        ]
+    },
+    "request_id": "oDXphdJgRvAFJZx"
+}

@@ -1,0 +1,980 @@
+{
+    "accounts": [
+        {
+            "account_id": "qerWVZlddbckBorLoP4khmQ8pkx65GF6vKE3W",
+            "balances": {
+                "available": 100,
+                "current": 110,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "holder_category": "personal",
+            "mask": "0000",
+            "name": "Plaid Checking",
+            "official_name": "Plaid Gold Standard 0% Interest Checking",
+            "owners": [
+                {
+                    "addresses": [
+                        {
+                            "data": {
+                                "city": "Malakoff",
+                                "country": "US",
+                                "postal_code": "14236",
+                                "region": "NY",
+                                "street": "2992 Cameron Road"
+                            },
+                            "primary": true
+                        },
+                        {
+                            "data": {
+                                "city": "San Matias",
+                                "country": "US",
+                                "postal_code": "93405-2255",
+                                "region": "CA",
+                                "street": "2493 Leisure Lane"
+                            },
+                            "primary": false
+                        }
+                    ],
+                    "emails": [
+                        {
+                            "data": "accountholder0@example.com",
+                            "primary": true,
+                            "type": "primary"
+                        },
+                        {
+                            "data": "accountholder1@example.com",
+                            "primary": false,
+                            "type": "secondary"
+                        },
+                        {
+                            "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                            "primary": false,
+                            "type": "other"
+                        }
+                    ],
+                    "names": [
+                        "Alberta Bobbeth Charleson"
+                    ],
+                    "phone_numbers": [
+                        {
+                            "data": "1112223333",
+                            "primary": false,
+                            "type": "home"
+                        },
+                        {
+                            "data": "1112224444",
+                            "primary": false,
+                            "type": "work"
+                        },
+                        {
+                            "data": "1112225555",
+                            "primary": false,
+                            "type": "mobile"
+                        }
+                    ]
+                }
+            ],
+            "persistent_account_id": "8cfb8beb89b774ee43b090625f0d61d0814322b43bff984eaf60386e",
+            "subtype": "checking",
+            "type": "depository"
+        },
+        {
+            "account_id": "KBqGQ7Rzz4FJXqD8qNLJf1NR59BkEeiE7XyQq",
+            "balances": {
+                "available": 200,
+                "current": 210,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "holder_category": "personal",
+            "mask": "1111",
+            "name": "Plaid Saving",
+            "official_name": "Plaid Silver Standard 0.1% Interest Saving",
+            "owners": [
+                {
+                    "addresses": [
+                        {
+                            "data": {
+                                "city": "Malakoff",
+                                "country": "US",
+                                "postal_code": "14236",
+                                "region": "NY",
+                                "street": "2992 Cameron Road"
+                            },
+                            "primary": true
+                        },
+                        {
+                            "data": {
+                                "city": "San Matias",
+                                "country": "US",
+                                "postal_code": "93405-2255",
+                                "region": "CA",
+                                "street": "2493 Leisure Lane"
+                            },
+                            "primary": false
+                        }
+                    ],
+                    "emails": [
+                        {
+                            "data": "accountholder0@example.com",
+                            "primary": true,
+                            "type": "primary"
+                        },
+                        {
+                            "data": "accountholder1@example.com",
+                            "primary": false,
+                            "type": "secondary"
+                        },
+                        {
+                            "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                            "primary": false,
+                            "type": "other"
+                        }
+                    ],
+                    "names": [
+                        "Alberta Bobbeth Charleson"
+                    ],
+                    "phone_numbers": [
+                        {
+                            "data": "1112223333",
+                            "primary": false,
+                            "type": "home"
+                        },
+                        {
+                            "data": "1112224444",
+                            "primary": false,
+                            "type": "work"
+                        },
+                        {
+                            "data": "1112225555",
+                            "primary": false,
+                            "type": "mobile"
+                        }
+                    ]
+                }
+            ],
+            "persistent_account_id": "211a4e5d8361a3afb7a3886362198c7306e00a313b5aa944c20d34b6",
+            "subtype": "savings",
+            "type": "depository"
+        },
+        {
+            "account_id": "rQzAVMqaagFvkZzpZPovhjA4JvozX9idWRQzz",
+            "balances": {
+                "available": null,
+                "current": 1000,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "mask": "2222",
+            "name": "Plaid CD",
+            "official_name": "Plaid Bronze Standard 0.2% Interest CD",
+            "owners": [
+                {
+                    "addresses": [
+                        {
+                            "data": {
+                                "city": "Malakoff",
+                                "country": "US",
+                                "postal_code": "14236",
+                                "region": "NY",
+                                "street": "2992 Cameron Road"
+                            },
+                            "primary": true
+                        },
+                        {
+                            "data": {
+                                "city": "San Matias",
+                                "country": "US",
+                                "postal_code": "93405-2255",
+                                "region": "CA",
+                                "street": "2493 Leisure Lane"
+                            },
+                            "primary": false
+                        }
+                    ],
+                    "emails": [
+                        {
+                            "data": "accountholder0@example.com",
+                            "primary": true,
+                            "type": "primary"
+                        },
+                        {
+                            "data": "accountholder1@example.com",
+                            "primary": false,
+                            "type": "secondary"
+                        },
+                        {
+                            "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                            "primary": false,
+                            "type": "other"
+                        }
+                    ],
+                    "names": [
+                        "Alberta Bobbeth Charleson"
+                    ],
+                    "phone_numbers": [
+                        {
+                            "data": "1112223333",
+                            "primary": false,
+                            "type": "home"
+                        },
+                        {
+                            "data": "1112224444",
+                            "primary": false,
+                            "type": "work"
+                        },
+                        {
+                            "data": "1112225555",
+                            "primary": false,
+                            "type": "mobile"
+                        }
+                    ]
+                }
+            ],
+            "persistent_account_id": "2a01484e1b5ef0b54fbcb89658b2764529bbec94a16f7b95481280a7",
+            "subtype": "cd",
+            "type": "depository"
+        },
+        {
+            "account_id": "z8PRqWJZZai3ayP1yJd3hJMvl1bjKdf3ZbVnK",
+            "balances": {
+                "available": null,
+                "current": 410,
+                "iso_currency_code": "USD",
+                "limit": 2000,
+                "unofficial_currency_code": null
+            },
+            "mask": "3333",
+            "name": "Plaid Credit Card",
+            "official_name": "Plaid Diamond 12.5% APR Interest Credit Card",
+            "owners": [
+                {
+                    "addresses": [
+                        {
+                            "data": {
+                                "city": "Malakoff",
+                                "country": "US",
+                                "postal_code": "14236",
+                                "region": "NY",
+                                "street": "2992 Cameron Road"
+                            },
+                            "primary": true
+                        },
+                        {
+                            "data": {
+                                "city": "San Matias",
+                                "country": "US",
+                                "postal_code": "93405-2255",
+                                "region": "CA",
+                                "street": "2493 Leisure Lane"
+                            },
+                            "primary": false
+                        }
+                    ],
+                    "emails": [
+                        {
+                            "data": "accountholder0@example.com",
+                            "primary": true,
+                            "type": "primary"
+                        },
+                        {
+                            "data": "accountholder1@example.com",
+                            "primary": false,
+                            "type": "secondary"
+                        },
+                        {
+                            "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                            "primary": false,
+                            "type": "other"
+                        }
+                    ],
+                    "names": [
+                        "Alberta Bobbeth Charleson"
+                    ],
+                    "phone_numbers": [
+                        {
+                            "data": "1112223333",
+                            "primary": false,
+                            "type": "home"
+                        },
+                        {
+                            "data": "1112224444",
+                            "primary": false,
+                            "type": "work"
+                        },
+                        {
+                            "data": "1112225555",
+                            "primary": false,
+                            "type": "mobile"
+                        }
+                    ]
+                }
+            ],
+            "subtype": "credit card",
+            "type": "credit"
+        },
+        {
+            "account_id": "B8G1xBwnnDi3ojPkj6q3hPozLpeEgxuzRoBlR",
+            "balances": {
+                "available": 43200,
+                "current": 43200,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "mask": "4444",
+            "name": "Plaid Money Market",
+            "official_name": "Plaid Platinum Standard 1.85% Interest Money Market",
+            "owners": [
+                {
+                    "addresses": [
+                        {
+                            "data": {
+                                "city": "Malakoff",
+                                "country": "US",
+                                "postal_code": "14236",
+                                "region": "NY",
+                                "street": "2992 Cameron Road"
+                            },
+                            "primary": true
+                        },
+                        {
+                            "data": {
+                                "city": "San Matias",
+                                "country": "US",
+                                "postal_code": "93405-2255",
+                                "region": "CA",
+                                "street": "2493 Leisure Lane"
+                            },
+                            "primary": false
+                        }
+                    ],
+                    "emails": [
+                        {
+                            "data": "accountholder0@example.com",
+                            "primary": true,
+                            "type": "primary"
+                        },
+                        {
+                            "data": "accountholder1@example.com",
+                            "primary": false,
+                            "type": "secondary"
+                        },
+                        {
+                            "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                            "primary": false,
+                            "type": "other"
+                        }
+                    ],
+                    "names": [
+                        "Alberta Bobbeth Charleson"
+                    ],
+                    "phone_numbers": [
+                        {
+                            "data": "1112223333",
+                            "primary": false,
+                            "type": "home"
+                        },
+                        {
+                            "data": "1112224444",
+                            "primary": false,
+                            "type": "work"
+                        },
+                        {
+                            "data": "1112225555",
+                            "primary": false,
+                            "type": "mobile"
+                        }
+                    ]
+                }
+            ],
+            "subtype": "money market",
+            "type": "depository"
+        },
+        {
+            "account_id": "3ajzgEP77GCvg1kl1arvh5DWQ8vVkBUmvyAxG",
+            "balances": {
+                "available": null,
+                "current": 320.76,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "mask": "5555",
+            "name": "Plaid IRA",
+            "official_name": null,
+            "owners": [
+                {
+                    "addresses": [
+                        {
+                            "data": {
+                                "city": "Malakoff",
+                                "country": "US",
+                                "postal_code": "14236",
+                                "region": "NY",
+                                "street": "2992 Cameron Road"
+                            },
+                            "primary": true
+                        },
+                        {
+                            "data": {
+                                "city": "San Matias",
+                                "country": "US",
+                                "postal_code": "93405-2255",
+                                "region": "CA",
+                                "street": "2493 Leisure Lane"
+                            },
+                            "primary": false
+                        }
+                    ],
+                    "emails": [
+                        {
+                            "data": "accountholder0@example.com",
+                            "primary": true,
+                            "type": "primary"
+                        },
+                        {
+                            "data": "accountholder1@example.com",
+                            "primary": false,
+                            "type": "secondary"
+                        },
+                        {
+                            "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                            "primary": false,
+                            "type": "other"
+                        }
+                    ],
+                    "names": [
+                        "Alberta Bobbeth Charleson"
+                    ],
+                    "phone_numbers": [
+                        {
+                            "data": "1112223333",
+                            "primary": false,
+                            "type": "home"
+                        },
+                        {
+                            "data": "1112224444",
+                            "primary": false,
+                            "type": "work"
+                        },
+                        {
+                            "data": "1112225555",
+                            "primary": false,
+                            "type": "mobile"
+                        }
+                    ]
+                }
+            ],
+            "subtype": "ira",
+            "type": "investment"
+        },
+        {
+            "account_id": "xo49V8xeegf1rz49zMv1swGlW1R6ZxiyXa1b9",
+            "balances": {
+                "available": null,
+                "current": 23631.9805,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "mask": "6666",
+            "name": "Plaid 401k",
+            "official_name": null,
+            "owners": [
+                {
+                    "addresses": [
+                        {
+                            "data": {
+                                "city": "Malakoff",
+                                "country": "US",
+                                "postal_code": "14236",
+                                "region": "NY",
+                                "street": "2992 Cameron Road"
+                            },
+                            "primary": true
+                        },
+                        {
+                            "data": {
+                                "city": "San Matias",
+                                "country": "US",
+                                "postal_code": "93405-2255",
+                                "region": "CA",
+                                "street": "2493 Leisure Lane"
+                            },
+                            "primary": false
+                        }
+                    ],
+                    "emails": [
+                        {
+                            "data": "accountholder0@example.com",
+                            "primary": true,
+                            "type": "primary"
+                        },
+                        {
+                            "data": "accountholder1@example.com",
+                            "primary": false,
+                            "type": "secondary"
+                        },
+                        {
+                            "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                            "primary": false,
+                            "type": "other"
+                        }
+                    ],
+                    "names": [
+                        "Alberta Bobbeth Charleson"
+                    ],
+                    "phone_numbers": [
+                        {
+                            "data": "1112223333",
+                            "primary": false,
+                            "type": "home"
+                        },
+                        {
+                            "data": "1112224444",
+                            "primary": false,
+                            "type": "work"
+                        },
+                        {
+                            "data": "1112225555",
+                            "primary": false,
+                            "type": "mobile"
+                        }
+                    ]
+                }
+            ],
+            "subtype": "401k",
+            "type": "investment"
+        },
+        {
+            "account_id": "dKWjVzgnnDI3Alzml5w3hLzKw3boBxtBd1kpZ",
+            "balances": {
+                "available": null,
+                "current": 65262,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "holder_category": "personal",
+            "mask": "7777",
+            "name": "Plaid Student Loan",
+            "official_name": null,
+            "owners": [
+                {
+                    "addresses": [
+                        {
+                            "data": {
+                                "city": "Malakoff",
+                                "country": "US",
+                                "postal_code": "14236",
+                                "region": "NY",
+                                "street": "2992 Cameron Road"
+                            },
+                            "primary": true
+                        },
+                        {
+                            "data": {
+                                "city": "San Matias",
+                                "country": "US",
+                                "postal_code": "93405-2255",
+                                "region": "CA",
+                                "street": "2493 Leisure Lane"
+                            },
+                            "primary": false
+                        }
+                    ],
+                    "emails": [
+                        {
+                            "data": "accountholder0@example.com",
+                            "primary": true,
+                            "type": "primary"
+                        },
+                        {
+                            "data": "accountholder1@example.com",
+                            "primary": false,
+                            "type": "secondary"
+                        },
+                        {
+                            "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                            "primary": false,
+                            "type": "other"
+                        }
+                    ],
+                    "names": [
+                        "Alberta Bobbeth Charleson"
+                    ],
+                    "phone_numbers": [
+                        {
+                            "data": "1112223333",
+                            "primary": false,
+                            "type": "home"
+                        },
+                        {
+                            "data": "1112224444",
+                            "primary": false,
+                            "type": "work"
+                        },
+                        {
+                            "data": "1112225555",
+                            "primary": false,
+                            "type": "mobile"
+                        }
+                    ]
+                }
+            ],
+            "subtype": "student",
+            "type": "loan"
+        },
+        {
+            "account_id": "aAg4VqkWWBH9XdqBdEJ9SzRLJ96DkytkbmNMZ",
+            "balances": {
+                "available": null,
+                "current": 56302.06,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "mask": "8888",
+            "name": "Plaid Mortgage",
+            "official_name": null,
+            "owners": [
+                {
+                    "addresses": [
+                        {
+                            "data": {
+                                "city": "Malakoff",
+                                "country": "US",
+                                "postal_code": "14236",
+                                "region": "NY",
+                                "street": "2992 Cameron Road"
+                            },
+                            "primary": true
+                        },
+                        {
+                            "data": {
+                                "city": "San Matias",
+                                "country": "US",
+                                "postal_code": "93405-2255",
+                                "region": "CA",
+                                "street": "2493 Leisure Lane"
+                            },
+                            "primary": false
+                        }
+                    ],
+                    "emails": [
+                        {
+                            "data": "accountholder0@example.com",
+                            "primary": true,
+                            "type": "primary"
+                        },
+                        {
+                            "data": "accountholder1@example.com",
+                            "primary": false,
+                            "type": "secondary"
+                        },
+                        {
+                            "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                            "primary": false,
+                            "type": "other"
+                        }
+                    ],
+                    "names": [
+                        "Alberta Bobbeth Charleson"
+                    ],
+                    "phone_numbers": [
+                        {
+                            "data": "1112223333",
+                            "primary": false,
+                            "type": "home"
+                        },
+                        {
+                            "data": "1112224444",
+                            "primary": false,
+                            "type": "work"
+                        },
+                        {
+                            "data": "1112225555",
+                            "primary": false,
+                            "type": "mobile"
+                        }
+                    ]
+                }
+            ],
+            "subtype": "mortgage",
+            "type": "loan"
+        },
+        {
+            "account_id": "447B8W6eeauwVoRBo6QwheVjWPwvXailqyoPl",
+            "balances": {
+                "available": 6009,
+                "current": 6009,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "mask": "9001",
+            "name": "Plaid HSA",
+            "official_name": "Plaid Cares Health Savings Account",
+            "owners": [
+                {
+                    "addresses": [
+                        {
+                            "data": {
+                                "city": "Malakoff",
+                                "country": "US",
+                                "postal_code": "14236",
+                                "region": "NY",
+                                "street": "2992 Cameron Road"
+                            },
+                            "primary": true
+                        },
+                        {
+                            "data": {
+                                "city": "San Matias",
+                                "country": "US",
+                                "postal_code": "93405-2255",
+                                "region": "CA",
+                                "street": "2493 Leisure Lane"
+                            },
+                            "primary": false
+                        }
+                    ],
+                    "emails": [
+                        {
+                            "data": "accountholder0@example.com",
+                            "primary": true,
+                            "type": "primary"
+                        },
+                        {
+                            "data": "accountholder1@example.com",
+                            "primary": false,
+                            "type": "secondary"
+                        },
+                        {
+                            "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                            "primary": false,
+                            "type": "other"
+                        }
+                    ],
+                    "names": [
+                        "Alberta Bobbeth Charleson"
+                    ],
+                    "phone_numbers": [
+                        {
+                            "data": "1112223333",
+                            "primary": false,
+                            "type": "home"
+                        },
+                        {
+                            "data": "1112224444",
+                            "primary": false,
+                            "type": "work"
+                        },
+                        {
+                            "data": "1112225555",
+                            "primary": false,
+                            "type": "mobile"
+                        }
+                    ]
+                }
+            ],
+            "subtype": "hsa",
+            "type": "depository"
+        },
+        {
+            "account_id": "Ndzm1Zqxx7fAQzDvzLaAh3Vr5l1pX9fXbJ3wn",
+            "balances": {
+                "available": 12060,
+                "current": 12060,
+                "iso_currency_code": "USD",
+                "limit": null,
+                "unofficial_currency_code": null
+            },
+            "mask": "9002",
+            "name": "Plaid Cash Management",
+            "official_name": "Plaid Growth Cash Management",
+            "owners": [
+                {
+                    "addresses": [
+                        {
+                            "data": {
+                                "city": "Malakoff",
+                                "country": "US",
+                                "postal_code": "14236",
+                                "region": "NY",
+                                "street": "2992 Cameron Road"
+                            },
+                            "primary": true
+                        },
+                        {
+                            "data": {
+                                "city": "San Matias",
+                                "country": "US",
+                                "postal_code": "93405-2255",
+                                "region": "CA",
+                                "street": "2493 Leisure Lane"
+                            },
+                            "primary": false
+                        }
+                    ],
+                    "emails": [
+                        {
+                            "data": "accountholder0@example.com",
+                            "primary": true,
+                            "type": "primary"
+                        },
+                        {
+                            "data": "accountholder1@example.com",
+                            "primary": false,
+                            "type": "secondary"
+                        },
+                        {
+                            "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                            "primary": false,
+                            "type": "other"
+                        }
+                    ],
+                    "names": [
+                        "Alberta Bobbeth Charleson"
+                    ],
+                    "phone_numbers": [
+                        {
+                            "data": "1112223333",
+                            "primary": false,
+                            "type": "home"
+                        },
+                        {
+                            "data": "1112224444",
+                            "primary": false,
+                            "type": "work"
+                        },
+                        {
+                            "data": "1112225555",
+                            "primary": false,
+                            "type": "mobile"
+                        }
+                    ]
+                }
+            ],
+            "subtype": "cash management",
+            "type": "depository"
+        },
+        {
+            "account_id": "P439p1raaQuq43DB3dwqHZLz53ypXetXbl1RN",
+            "balances": {
+                "available": 4980,
+                "current": 5020,
+                "iso_currency_code": "USD",
+                "limit": 10000,
+                "unofficial_currency_code": null
+            },
+            "holder_category": "business",
+            "mask": "9999",
+            "name": "Plaid Business Credit Card",
+            "official_name": "Plaid Platinum Small Business Credit Card",
+            "owners": [
+                {
+                    "addresses": [
+                        {
+                            "data": {
+                                "city": "Malakoff",
+                                "country": "US",
+                                "postal_code": "14236",
+                                "region": "NY",
+                                "street": "2992 Cameron Road"
+                            },
+                            "primary": true
+                        },
+                        {
+                            "data": {
+                                "city": "San Matias",
+                                "country": "US",
+                                "postal_code": "93405-2255",
+                                "region": "CA",
+                                "street": "2493 Leisure Lane"
+                            },
+                            "primary": false
+                        }
+                    ],
+                    "emails": [
+                        {
+                            "data": "accountholder0@example.com",
+                            "primary": true,
+                            "type": "primary"
+                        },
+                        {
+                            "data": "accountholder1@example.com",
+                            "primary": false,
+                            "type": "secondary"
+                        },
+                        {
+                            "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                            "primary": false,
+                            "type": "other"
+                        }
+                    ],
+                    "names": [
+                        "Alberta Bobbeth Charleson"
+                    ],
+                    "phone_numbers": [
+                        {
+                            "data": "1112223333",
+                            "primary": false,
+                            "type": "home"
+                        },
+                        {
+                            "data": "1112224444",
+                            "primary": false,
+                            "type": "work"
+                        },
+                        {
+                            "data": "1112225555",
+                            "primary": false,
+                            "type": "mobile"
+                        }
+                    ]
+                }
+            ],
+            "subtype": "credit card",
+            "type": "credit"
+        }
+    ],
+    "item": {
+        "auth_method": "INSTANT_AUTH",
+        "available_products": [
+            "assets",
+            "balance",
+            "identity_match",
+            "income_verification",
+            "recurring_transactions",
+            "signal"
+        ],
+        "billed_products": [
+            "auth",
+            "identity",
+            "investments",
+            "liabilities",
+            "transactions"
+        ],
+        "consent_expiration_time": null,
+        "error": null,
+        "institution_id": "ins_13",
+        "institution_name": "PNC",
+        "item_id": "DWbpakomm1uy9bLkbvxysg9nZWRPNKUvzgdWA",
+        "products": [
+            "auth",
+            "identity",
+            "investments",
+            "liabilities",
+            "transactions"
+        ],
+        "update_type": "background",
+        "webhook": ""
+    },
+    "request_id": "M8ibzI74bIvGA1G"
+}

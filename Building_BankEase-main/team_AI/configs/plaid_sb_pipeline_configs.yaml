@@ -1,0 +1,69 @@
+# ---------------------------------------------------------------------------- #
+#                Unified Pipeline Configuration for Plaid Sandbox              #
+# ---------------------------------------------------------------------------- #
+
+# The list of products you want to fetch data for.
+products_to_fetch:
+  - auth
+  - balance
+  - identity
+  - investments
+  - liabilities
+  - transactions
+
+# ---------------------------------------------------------------------------- #
+#                      Country & Institution Configuration                     #
+# ---------------------------------------------------------------------------- #
+institutions:
+  # List of ISO 3166-1 alpha-2 country codes to run the pipeline for.
+  # Best practice: Run for ONE country at a time to avoid rate limits.
+  # e.g., ["US"], then ["GB"], then ["FR"]
+  # Possible values: US, GB, ES, NL, FR, IE, CA, DE, IT, PL, DK, "NO", SE, EE, LT, LV, PT, BE, AT, FI
+
+  country_codes:
+    - GB
+  
+  # The number of institutions to fetch for each country in the list above.
+  count_per_country: 3
+
+  # Optional: Specify initial products on a per-country basis.
+  # If a country is not listed here, it will use the global `items.initial_products`.
+  # If you want NO products for a country, provide an empty list like `GB: []`.
+  country_products:
+    US:
+      - auth
+      - identity
+      - investments
+      - liabilities
+      - transactions
+    GB: []
+    FR: []
+
+# ---------------------------------------------------------------------------- #
+#                         Customer Item Configuration                          #
+# ---------------------------------------------------------------------------- #
+items:
+  # The number of customer Items to create for EACH institution fetched.
+  customers_per_institution: 5
+  
+  # The initial products to enable when creating a new Item.
+  initial_products:
+    - auth
+    - identity
+    - investments
+    - liabilities
+    - transactions
+
+# ---------------------------------------------------------------------------- #
+#                           Path Configuration                                 #
+# ---------------------------------------------------------------------------- #
+output_data_dir: "./data/plaid_sb_pipeline_output"
+
+# ---------------------------------------------------------------------------- #
+#                         Advanced API Configuration                           #
+# ---------------------------------------------------------------------------- #
+api_settings:
+  # The starting point when fetching the list of institutions. Default is 0.
+  institutions_offset: 3
+  # The delay in seconds between certain API calls to avoid rate limiting.
+  request_delay_seconds: 5 
