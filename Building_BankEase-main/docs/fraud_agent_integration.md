@@ -133,4 +133,4 @@ This is the main workflow.
 ---
 
 ### Credits
-This fraud agent was developed by Samantha Lee, with integration and documentation support from Luis Mancio and Priyanjali Patel with additional contributions from Ayodele Mudavanhu, Sanjiv Shrestha, Jayash, Amit Sarkar, Ramy Othman and Olajumoke Ojikutu.
+This fraud agent was developed by Samantha Lee, with integration and documentation support from Luis Mancio and Priyanjali Patel 
