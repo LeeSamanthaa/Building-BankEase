@@ -163,8 +163,8 @@ streamlit run app.py
 ## Information regarding other directories
 
 1. **team_AI** 
-   - Contains work done by collaborators wrt to insights, recommendations, and fraud models.
-    A subset of this work has already been incorporated into bankease_agentic_app directory. Not used for running the Bankease agentic app.
+   - Contains work done by collaborators on insights, recommendations, and fraud models.
+    A subset of this work has already been incorporated into the bankease_agentic_app directory and not used for running the Bankease agentic app.
     
 ---
 
