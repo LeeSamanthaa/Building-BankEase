@@ -173,3 +173,6 @@ streamlit run app.py
 - **Golden Dataset** – Created by Samantha Lee, Madoka Fujii, Sanjiv Shrestha
 - **FAQ and Bank Policies** – Sunil Thapa  
 - **Documentation Files** – Authored by contributors (names mentioned inside each document in `docs/`)
+  
+  <img width="1324" height="813" alt="image" src="https://github.com/user-attachments/assets/b5ab98d9-4c44-4f0b-ae1f-166d04c96ae6" />
+
