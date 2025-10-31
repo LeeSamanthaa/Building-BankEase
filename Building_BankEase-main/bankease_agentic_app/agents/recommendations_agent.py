@@ -37,7 +37,7 @@ from dotenv import load_dotenv
 load_dotenv()
 groq_api_key = os.getenv("GROQ_API_KEY")
 
-llm = ChatGroq(model="llama3-70b-8192", groq_api_key=groq_api_key)
+llm = ChatGroq(model="llama-3.3-70b-versatile", groq_api_key=groq_api_key)
 """
 
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))          # current directory
